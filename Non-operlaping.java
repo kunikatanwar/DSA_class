@@ -11,6 +11,15 @@ class Solution {
             }
         }
         return n-count;
+
+       Arrays.sort(b-1);
+
+
+
+
+       
+
+        
         
     }
 }
